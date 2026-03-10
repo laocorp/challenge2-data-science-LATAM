@@ -1,5 +1,10 @@
 # Telecom X - Challenge 2
 
+<p align="center">
+  <img src="cover.png" alt="Telecom X">
+</p>
+
+
 Análisis de retención (Churn) para la empresa Telecom X, como parte del Challenge 2 de Data Science LATAM.
 
 Este repositorio contiene:
